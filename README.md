@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Robert Pearce</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertxpearce&show_icons=true&locale=en&layout=compact" alt="robertxpearce" /></p>
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertxpearce&" alt="robertxpearce" /></p>
 
