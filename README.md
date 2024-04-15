@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert Pearce</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertxpearce&" alt="robertxpearce" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=robertxpearce&" alt="robertxpearce" /></p>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertxpearce&label=Profile%20views&color=0e75b6&style=flat" alt="robertxpearce" /> </p>
