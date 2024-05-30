@@ -1,8 +1,5 @@
 <div align="center">
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-d-pearce) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@robertxpearce) 
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
 
@@ -17,7 +14,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertxpearce&theme=nord&hide_border=false" alt="GitHub Streak" />
 </p>
 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-d-pearce) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@robertxpearce) 
+<!--
 ---
 [![](https://visitcount.itsvg.in/api?id=robertxpearce&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+-->
