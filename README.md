@@ -14,17 +14,11 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertxpearce&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertxpearce&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertxpearce&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertxpearce&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertxpearce&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robertxpearce&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-</p>
--->
+
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-d-pearce) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@robertxpearce) 
