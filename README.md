@@ -1,6 +1,6 @@
 # About Me
 
-Computer science student and machine learning researcher focused on scientific ML, uncertainty quantification, and high-performance computing. My work connects large-scale simulation data, reproducible ML pipelines, and uncertainty-aware modeling for scientific loop
+Computer science student and machine learning researcher focused on scientific ML, uncertainty quantification, and high-performance computing. My work connects large-scale simulation data, reproducible ML pipelines, and uncertainty-aware modeling for scientific applications.
 
 | Platform | Link |
 |---|---|
