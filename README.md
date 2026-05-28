@@ -1,7 +1,5 @@
 # About Me
 
----
-
 Computer science student and machine learning researcher focused on scientific ML, uncertainty quantification, and high-performance computing. My work connects large-scale simulation data, reproducible ML pipelines, and uncertainty-aware modeling for scientific loop
 
 | Platform | Link |
@@ -13,14 +11,10 @@ Computer science student and machine learning researcher focused on scientific M
 
 # Featured Work
 
----
-
 - [`reionemu`](https://github.com/RobertxPearce/reionization-emulator) — Python package for emulating the kSZ angular power spectrum from reionization simulations.
 - `Quorum iOS Accessibility` — Senior design work focused on improving accessibility support for blind and visually impaired iOS developers.
 
 # Interests
-
----
 
 - Machine Learning
 - Uncertainty Quantification
