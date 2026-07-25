@@ -12,6 +12,7 @@ Computer science student and machine learning researcher focused on scientific M
 # Featured Work
 
 - [`reionemu`](https://github.com/RobertxPearce/reionization-emulator) — Python package for emulating the kSZ angular power spectrum from reionization simulations.
+- [`uncertainty-aware-histopathology-survival-analysis`](https://github.com/RobertxPearce/uncertainty-aware-histopathology-survival-analysis) — Benchmark of MC-Dropout, Deep Ensembles, and SNGP for uncertainty quantification in an ABMIL + Cox survival model on TCGA glioma whole-slide images.
 - `Quorum iOS Accessibility` — Senior design work focused on improving accessibility support for blind and visually impaired iOS developers.
 
 # Interests
