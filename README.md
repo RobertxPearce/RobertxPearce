@@ -1,6 +1,10 @@
 # About Me
 
-Computer science student and machine learning researcher focused on scientific ML, uncertainty quantification, and high-performance computing. My work connects large-scale simulation data, reproducible ML pipelines, and uncertainty-aware modeling for scientific applications.
+Machine learning researcher and engineer working across scientific ML, uncertainty quantification, and high-performance computing. I build uncertainty-aware models, GPU-accelerated scientific computing pipelines, and reproducible ML tools.
+
+Currently pursuing an M.S.E. in Computer Science at Johns Hopkins University and working on machine learning methods for reionization cosmology.
+
+Seeking Summer 2027 internships.
 
 | Platform | Link |
 |---|---|
